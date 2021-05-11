@@ -1,0 +1,32 @@
+/* ----------------------------- */
+/* ----------------------------- */
+/* -------    Pages     -------- */
+/* ----------------------------- */
+/* ----------------------------- */
+
+// Pages
+@use '../pages/home/home';
+@use '../pages/members-access/members-access';
+@use '../pages/legals/legals';
+
+// Components
+@use '../components/header/header-cpnt';
+@use '../components/equality-part/equality-part-cpnt';
+@use '../components/common-values/common-values-cpnt';
+@use '../components/need-to-join/need-to-join-cpnt';
+@use '../components/toogether-part/toogether-part-cpnt';
+@use '../components/founders-part/founders-part-cpnt';
+@use '../components/members-part/members-part-cpnt';
+@use '../components/members-fixed-part/members-fixed-part-cpnt';
+@use '../components/call-to-action-part/call-to-action-part-cpnt';
+@use '../components/talk-about-us-part/talk-about-us-part-cpnt';
+@use '../components/footer/footer-cpnt';
+@use '../components/popin-members/popin-members';
+
+// Atoms
+@use '../atoms/founder/founder-atm';
+@use '../atoms/carousel/carousel-atm';
+@use '../atoms/about-article-card/about-article-card-atm';
+@use '../atoms/access-button/access-button-atm';
+@use '../atoms/values-button/values-button-atm';
+
